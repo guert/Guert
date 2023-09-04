@@ -140,6 +140,7 @@ delebot the git.
 
 Start blog.
 
+/* update 09.04.2023.9er */
 Wholesome dank shitposting is therapy. I invented it. 
 
 -guert
