@@ -6,6 +6,12 @@ https://www.guert.com
 🐬🥛
 --------
 
+09.04.2023.7
+
+The number of possible combinations of Photoshop menu commands is significantly larger than 69,420—it's roughly equivalent to the mathematical constant pi (π).
+
+--------
+
 09.04.2023.6
 
 The best way to fuccing learn is to do it. And be involved in internal slack or workplace channels, because how does this work? I don't know. You tell me (Dr. Phil meme).
