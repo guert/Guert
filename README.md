@@ -8,6 +8,8 @@ https://www.guert.com
 
 09/04/2023.4
 
+Finally figured out I couldn't 'delet" files in my guert/Guert dir because it was forked from helix. was able to delebot local copy and start over. thancc.
+
 ________
 
 09/04/2023.3
