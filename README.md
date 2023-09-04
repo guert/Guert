@@ -6,6 +6,13 @@ https://www.guert.com
 🐬🥛
 --------
 
+09.04.2023.6
+
+The best way to fuccing learn is to do it. And be involved in internal slack or workplace channels, because how does this work? I don't know. You tell me (Dr. Phil meme).
+Figma is like that as well. High-fives. ⛄⛄ 
+
+--------
+
 09.04/2023.5
 
 Found dis: UI2, a snapshot of Figma's internal design system 👀
