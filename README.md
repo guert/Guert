@@ -139,3 +139,7 @@ delebot the git.
 09/03/2023.1
 
 Start blog.
+
+Wholesome dank shitposting is therapy. I invented it. 
+
+-guert
