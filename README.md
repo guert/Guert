@@ -8,7 +8,7 @@ https://www.guert.com
 
 09.04.2023.7
 
-The number of possible combinations of Photoshop menu commands is significantly larger than 69,420—it's roughly equivalent to the mathematical constant pi (π).
+In theory, the number of possible combinations of Photoshop commands is significantly larger than 69,420—it's roughly equivalent to the mathematical constant pi (π).
 
 --------
 
