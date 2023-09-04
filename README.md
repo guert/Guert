@@ -6,6 +6,13 @@ https://www.guert.com
 🐬🥛
 --------
 
+09.04/2023.5
+
+Found dis: UI2, a snapshot of Figma's internal design system 👀
+https://www.figma.com/file/Gj9iMcTbFbHrFq1ZWbDBuyc9/UI2%3A-Figma's-Design-System?type=design&mode=design
+
+--------
+
 09/04/2023.4
 
 Finally figured out I couldn't 'delet' files in my guert/Guert dir because it was forked from helix. was able to delebot local copy and start over. thancc.
