@@ -6,6 +6,17 @@ https://www.guert.com
 🐬🥛
 --------
 
+09.04.2023.10
+
+
+KNOWTs™ (Woodsie TV). That dude is hillarious. We used to be on Hype, a post vine-app that was insanely hyperactive. Nick Gallo from Loop. Hehe. The world wasn't ready for it yet, so it got delet.
+
+i like dogs.
+
+
+
+--------
+
 09.04.2023.9
 
 Story blog time. This would be better as a video.
