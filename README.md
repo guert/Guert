@@ -6,6 +6,31 @@ https://www.guert.com
 🐬🥛
 --------
 
+09.04.2023.11
+
+.mangrep {
+    width: 50px;
+    height: 50px;
+    background-color: #69420;
+    border-radius: 50%;
+    position: relative;
+    animation: bounce 2s infinite;
+}
+
+Took me a long time to enjoy css.
+
+  <div class="mangrep">
+        <h1>He who likes meow meow</h1>
+        <p>This is Guert He's a man who really likes php!</p>
+  </div>
+
+I member html tables. Ah they worked. They will again on Vision Pro, that's what's funny. 
+css hella semantic though. Which is important! So screw tables. Long live tables. 
+
+I hear good things about htmx - as long as the hyper stays in front, It works.
+
+-------
+
 09.04.2023.10
 
 
