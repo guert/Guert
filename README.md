@@ -6,6 +6,9 @@ https://www.guert.com
 🐬🥛
 --------
 
+notes
+about : ui/ux : design
+
 09.04.2023.12
 
 ART
