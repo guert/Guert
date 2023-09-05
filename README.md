@@ -17,6 +17,7 @@ Look...squirrel!
 OK so social networks. It's a one-way mirror. We all know that. Kinda funny. Silicon Valley contingient zoo. Whatever. Watch dis. OK my point being, in the year of our Lord, 2002, I created a logo for Rio Fish. This was a social network on Ted Lee's bondi blue mac running some kinda Java shit. JAVA! Love ya SUN. UNIX. Anyway this thing worked. I guess we shoulda made part 2. 😐
 
 Ryze, Freindser was down the streel (literally) I knocked. They did not listen. Frens. lol
+They turned into prawn frens or something. classic.
 
 Ryze was pre-LinkedIn I believe. Not as fullfilling as https://www.zombo.com though.
 
