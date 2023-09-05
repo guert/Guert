@@ -6,6 +6,34 @@ https://www.guert.com
 🐬🥛
 --------
 
+09.04.2023.9
+
+Story blog time. This would be better as a video.
+
+Did I just see the full stack? Short stack? Half stack. Who cares? 
+
+Look...squirrel!
+
+OK so social networks. It's a one-way mirror. We all know that. Kinda funny. Silicon Valley contingient zoo. Whatever. Watch dis. OK my point being, in the year of our Lord, 2002, I created a logo for Rio Fish. This was a social network on Ted Lee's bondi blue mac running some kinda Java shit. JAVA! Love ya SUN. UNIX. Anyway this thing worked. I guess we shoulda made part 2. 😐
+
+Ryze, Freindser was down the streel (literally) I knocked. They did not listen. Frens. lol
+
+Ryze was pre-LinkedIn I believe. Not as fullfilling as https://www.zombo.com though.
+
+Is this a notebook? Is this sketching. No. Well, sure. Yeah.
+
+Am I a script writer on strike? Sounds good. I need an editor. 
+
+Social networks.
+
+It's all about niche, really. Everything else is just noise. I like noise. Good noise. Quadlines. Tenor lines. 
+
+You know what I'm sayin'? Yeah. 
+
+Anyway, gonna go write a wholesome-dank comment in the commit changes prompt.
+
+--------
+
 09.04.2023.8
 
 This is boring. Blogging is so 2002. But if you must... read dis:
