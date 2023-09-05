@@ -6,8 +6,12 @@ https://www.guert.com
 🐬🥛
 --------
 
-notes
+09.05.2023.1
+
+site update: nav
 about : ui/ux : design
+
+--------
 
 09.04.2023.12
 
