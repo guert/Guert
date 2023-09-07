@@ -6,6 +6,12 @@ https://www.guert.com
 🐬🥛
 --------
 
+09.06.2023.1
+
+It is Wednesday, my dudes. 
+made a shirt: "644 Secure"
+i member securitah. i member.
+
 09.05.2023.1
 
 site update: nav
