@@ -6,6 +6,24 @@ https://www.guert.com
 🐬🥛
 --------
 
+09.10/2023
+
+In the captivating and ever-evolving realm of system administration, the tale of guert.com has taken a truly intriguing turn within the past 24 hours. Allow me to delve deeper into this narrative.
+
+The journey began when I decided it was time to bid farewell to the aging, old server that had faithfully served its purpose for years. With a sense of accomplishment, I deleted the server, thinking that this would conclude the task. However, fate had a different plan in store for me, as I soon discovered that Network Solutions' DNS settings were still resolutely pointing to the now-retired server. It was an "oof" moment that jolted me into action.
+
+To unravel this unexpected twist, I embarked on a thorough investigation, which revealed a curious fact: I had not one, but two separate login accounts for Netsol. This discovery set me on a path of password resets and account reconciliation, as I needed to identify which of these two accounts contained the crucial guert information. It turned out to be quite the puzzle to decipher.
+
+Amidst this journey of digital exploration and troubleshooting, I found solace in the assistance of Netsol' technical support team. Their expertise and guidance proved to be invaluable, and together, we navigated the complexities of DNS propagation and account management. With their support, the transition process is now well underway, bringing a sense of relief and anticipation.
+
+Moreover, as the guert.com saga unfolds, it's not just a matter of resolving the DNS issue. This transformation provides an opportunity to enhance the website's performance and security. One exciting development is the implementation of a dedicated IP address for the new site. This change promises improved reliability and faster load times, which are bound to enhance the user experience.
+
+So, as the sun sets on the old server and rises on the new, the world of sys-admin continues to offer its fair share of challenges and triumphs. In the end, it's these experiences that make this domain of expertise so endlessly fascinating and rewarding. Stay tuned for more updates as the guert.com story unfolds on this captivating technological journey.
+
+I also updated my behance: 
+https://www.behance.net/guert
+--------
+
 09.06.2023.1
 
 It is Wednesday, my dudes. 
